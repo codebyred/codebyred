@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @codebyred
-- 👀 I’m interested in web application development
-- 🌱 I’m currently learning express, node.js, javascript, c 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web application development, game development
+- 🌱 I’m currently learning vuejs, c++.
+- 💞️ Skills:
+     Front-end: HTML, CSS, javascript,
+     Back-end: nodejs, express, python, php, c;
 - 📫 How to reach me @nazmulhaqueredoan@gmail.com
 
 <!---
