@@ -1,9 +1,12 @@
 - 👋 Hi, I’m @codebyred
-- 👀 I’m interested in web application development, game development
-- 🌱 I’m currently learning vuejs, c++.
+- 👀 I’m interested in learning and exploring new software technologies.
+- 🌱 I’m currently learning rust for creating web backends and native softwares.
 - 💞️ Skills:
-     Front-end: HTML, CSS, javascript,
-     Back-end: nodejs, express, python, php, c;
+  Frontend-languages: HTML, CSS, Javascript, typescript
+  Frontend-frameworks: Nextjs, Vuejs
+  Backend-languages: Php, Rust, Python
+  Backend frameworks: Expressjs, Actix, Laravel
+  Other-languages: c, c++, java, bash
 - 📫 How to reach me @nazmulhaqueredoan@gmail.com
 
 <!---
