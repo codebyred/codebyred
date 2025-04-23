@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @codebyred
+- 👋 Hi, I’m Md. Nazmul Haque Redoan
 - 👀 I’m interested in learning and exploring new software technologies.
-- 🌱 I’m currently learning rust for creating web backends and native softwares.
+- 🌱 I’m currently learning rust for creating web backends and native softwares. Also Nextjs for fullstack development.
 - 💞️ Skills:
   Frontend-languages: HTML, CSS, Javascript, typescript
   Frontend-frameworks: Nextjs, Vuejs
